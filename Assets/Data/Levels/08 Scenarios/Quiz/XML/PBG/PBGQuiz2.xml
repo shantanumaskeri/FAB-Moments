@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<questionnaire>
+		<question>Does Nada promise the customer reversal before checking the details?</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+    	<option6></option6>
+		<correctAnswer>No</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+		<question>Does Nada empathise with the customer?</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+    	<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+		<question>Has Nada tried to Manage the First Impression through building a connection with the customer?</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+    	<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Who all become the touchpoints to ensure that the customer's need is met?</question>
+    	<option1>Manager</option1>
+    	<option2>Manager + Nada</option2>
+    	<option3>Manager + Nada + Ahmed</option3>
+    	<option4>Nada only</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Manager + Nada + Ahmed</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Where in the above scenario is the CF behaviour Keep the Promise demonstrated?</question>
+    	<option1>Ahmed - By ensuring the customer was connected to a person who can solve the problem</option1>
+    	<option2>Nada - by reaching out to the customer as promised to Ahmed and calling the customer as promised</option2>
+    	<option3>Manager - by being available always to give the necessary approvals</option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Ahmed - By ensuring the customer was connected to a person who can solve the problem,Manager - by being available always to give the necessary approvals,Nada - by reaching out to the customer as promised to Ahmed and calling the customer as promised</correctAnswer>
+	</questionnaire>
+</quiz>

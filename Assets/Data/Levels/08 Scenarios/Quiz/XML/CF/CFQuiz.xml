@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>What is the First Impression that Rony is giving?</question>
+		<option1>Confident that he has the knowledge to take this forward</option1>
+    	<option2>Assurance that he will help</option2>
+    	<option3>He is taking too long and does not understand the situation</option3>
+    	<option4>He is talking too much and not here to help</option4>
+    	<option5></option5>
+		<option6></option6>
+		<correctAnswer>Assurance that he will help,Confident that he has the knowledge to take this forward</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>By asking the customer this question Rony shows he is interested and wants to educate the customer to ensure that the same thing does not happen again</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Did Rony lose the trust of Customer by saying this? Could he have handled it better? Choose what you feel happened here?</question>
+    	<option1>Rony has not Owned the moment. He could have mentioned some similar case before and given the confidence that money will be retrieved</option1>
+    	<option2>Rony has Owned the moment. He did the right thing by saying the truth and committing to facts within his limits. A wrong assurance could have done more harm</option2>
+    	<option3>Rony has lived the value of Keep the promise and her has set the expectation correctly</option3>
+    	<option4>Rony has created a Moment of Misery by not giving the assurance to Dania that she would get her funds back</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Rony has lived the value of Keep the promise and her has set the expectation correctly,Rony has Owned the moment. He did the right thing by saying the truth and committing to facts within his limits. A wrong assurance could have done more harm</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>At this point Rony needs to remember that he has promised the customer a call back within 24 hours. Which behavior is being demonstrated here?</question>
+    	<option1>Keep the Promise</option1>
+    	<option2>Treat everyone like a customer</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Keep the Promise</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What does Keep the promise mean?</question>
+    	<option1>You are only as good as your word – Rony needs to call Dania back within 24 hours with an update</option1>
+    	<option2>Do not make promises</option2>
+    	<option3>Make sure you know the process in order to be able to give a correct timeline and therefore keep the promise</option3>
+    	<option4>The investigation process will give all the answers – that is enough</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Make sure you know the process in order to be able to give a correct timeline and therefore keep the promise,You are only as good as your word – Rony needs to call Dania back within 24 hours with an update</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Ahmed is demonstrating "Treat everyone like a customer"</question>
+    	<option1>True</option1>
+    	<option2>False</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treating Rony like a customer is important at this time...If Ahmed does not give Rony all the answers the external customer is affected</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treating Rony like a customer is important at this time...Ahmed will lose his job if Rony complains about him</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>No</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treating Rony like a customer is important at this time...Ahmed does not need to give any answers on his day off</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>No</correctAnswer>
+	</questionnaire>
+</quiz>

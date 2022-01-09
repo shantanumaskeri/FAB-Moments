@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Screens
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 14f5c852e3a2d6e4ab6b208067ffa02f, type: 3}
+    - {fileID: 2800000, guid: aa7ed640f5f8beb4d99fd28203dbb547, type: 3}
+    - {fileID: 2800000, guid: 89c38e23adad78b4eb14e1006efeecf9, type: 3}
+    - {fileID: 2800000, guid: 54d347036ab657446b067eb323152d50, type: 3}
+    - {fileID: 2800000, guid: 57857b81a1dc922428baccf741327f58, type: 3}
+    - {fileID: 2800000, guid: 8da3f4d381f365844b615f795823317f, type: 3}
+    - {fileID: 2800000, guid: 42e9ce9809b254b41a6c0c7e1ddd4468, type: 3}
+    - {fileID: 2800000, guid: c491c0e7963410542be9ba0b73170cda, type: 3}
+    - {fileID: 2800000, guid: 78b0297fff0ff8f41bbfa594f611868f, type: 3}
+    - {fileID: 2800000, guid: edea64ca83e39e146b16a9d5993b3c9d, type: 3}
+    - {fileID: 2800000, guid: 554ffafb962f5594eb7bd165207a2f76, type: 3}
+    - {fileID: 2800000, guid: da277f51bff324a42ae4d66bcb2c3363, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aa7ed640f5f8beb4d99fd28203dbb547, type: 3}
+  - {fileID: 21300000, guid: da277f51bff324a42ae4d66bcb2c3363, type: 3}
+  - {fileID: 21300000, guid: 57857b81a1dc922428baccf741327f58, type: 3}
+  - {fileID: 21300000, guid: 14f5c852e3a2d6e4ab6b208067ffa02f, type: 3}
+  - {fileID: 21300000, guid: 54d347036ab657446b067eb323152d50, type: 3}
+  - {fileID: 21300000, guid: 89c38e23adad78b4eb14e1006efeecf9, type: 3}
+  - {fileID: 21300000, guid: 8da3f4d381f365844b615f795823317f, type: 3}
+  - {fileID: 21300000, guid: c491c0e7963410542be9ba0b73170cda, type: 3}
+  - {fileID: 21300000, guid: 42e9ce9809b254b41a6c0c7e1ddd4468, type: 3}
+  - {fileID: 21300000, guid: edea64ca83e39e146b16a9d5993b3c9d, type: 3}
+  - {fileID: 21300000, guid: 554ffafb962f5594eb7bd165207a2f76, type: 3}
+  - {fileID: 21300000, guid: 78b0297fff0ff8f41bbfa594f611868f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Launch
+  - User Profile
+  - CF-1
+  - Credits
+  - Avatar Selection
+  - Login
+  - CF-2
+  - CF-4
+  - CF-3
+  - Scenario Selection
+  - Leaderboard
+  - CF-5
+  m_Tag: Screens
+  m_IsVariant: 0

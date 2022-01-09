@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Managing the First Impression is...</question>
+		<option1>About how we introduce ourselves to our customer when we meet them the first time</option1>
+    	<option2>About tone of our voice when we speak to them</option2>
+    	<option3>About how we handle their queries</option3>
+    	<option4>About how we greet and talk to our customer</option4>
+    	<option5>About listening to our customer</option5>
+		<option6>Also about impression created by our surroundings and how we dress</option6>
+		<option7>How we handle the moment of truth every time we start a conversation with our customer</option7>
+    	<correctAnswer>About how we greet and talk to our customer,About tone of our voice when we speak to them,Also about impression created by our surroundings and how we dress,How we handle the moment of truth every time we start a conversation with our customer</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Own the Moment is...</question>
+    	<option1>About taking ownership of the experience</option1>
+    	<option2>About being focused in the conversation and not being distracted</option2>
+    	<option3>About being a single point of contact for the customer</option3>
+    	<option4>About listening to the customer</option4>
+		<option5>About resolving customer issue in the first interaction itself</option5>
+		<option6></option6>
+		<option7></option7>
+    	<correctAnswer>About being focused in the conversation and not being distracted,About listening to the customer,About taking ownership of the experience</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treat Everyone like a Customer means...</question>
+    	<option1>We should treat our internal customers even better than our external customers to create the FAB moment</option1>
+    	<option2>Treat the employees like you want them to treat you</option2>
+    	<option3>Treat the employees like you want them to treat their customers</option3>
+    	<option4>We are part of various touch points that impact the external customer experience</option4>
+		<option5>We have to start internally to impact externally</option5>
+		<option6></option6>
+		<option7></option7>
+    	<correctAnswer>Treat the employees like you want them to treat their customers,We are part of various touch points that impact the external customer experience,We have to start internally to impact externally</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Keep the Promise states...</question>
+    	<option1>Trust is built when we do what we say we will do</option1>
+    	<option2>Trust is built when we manage customer expectations and exceed them where possible</option2>
+    	<option3>We should promise to a customer something that is better than what he expects and then keep up to it</option3>
+    	<option4>We should let the customer know who is delaying things so they know why there is a delay</option4>
+		<option5></option5>
+		<option6></option6>
+		<option7></option7>
+    	<correctAnswer>Trust is built when we do what we say we will do,Trust is built when we manage customer expectations and exceed them where possible</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Manage moments of misery: Steps of managing the moment of misery are</question>
+    	<option1>Acknowledge and apologise. Discuss resolution and take ownership and act with urgency</option1>
+    	<option2>Promise to solve the problem. Ensure the required department solves the issue and informs customer</option2>
+    	<option3>Acknowledge and apologise. Inform concerned department and let customer know that you have informed them</option3>
+    	<option4>Apologise. Take ownership. Analyse the situation to understand root cause and then solve the issue</option4>
+    	<option5></option5>
+		<option6></option6>
+		<option7></option7>
+    	<correctAnswer>Acknowledge and apologise. Discuss resolution and take ownership and act with urgency</correctAnswer>
+	</questionnaire>
+</quiz>

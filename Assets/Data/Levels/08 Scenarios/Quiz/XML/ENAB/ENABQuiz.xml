@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Did Manoj create a FAB moment?</question>
+		<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+    	<option5></option5>
+		<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Who all created the First Impression in the above scenario?</question>
+    	<option1>Fatima</option1>
+    	<option2>Line Manager</option2>
+    	<option3>Receptionist</option3>
+    	<option4>Manoj</option4>
+		<option5>Naved</option5>
+		<option6></option6>
+		<correctAnswer>Fatima,Manoj,Naved,Receptionist</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Who were the touchpoints for the new employee?</question>
+    	<option1>Fatima</option1>
+    	<option2>Receptionist</option2>
+    	<option3>Manoj</option3>
+		<option4>Naved</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Fatima,Manoj,Naved,Receptionist</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of the following steps were followed by the IT person while managing the moment of misery?</question>
+    	<option1>Acknowledge and apologise</option1>
+    	<option2>Discuss the resolution</option2>
+    	<option3>Act with urgency</option3>
+    	<option4>Show accountability</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Acknowledge and apologise,Act with urgency,Discuss the resolution,Show accountability</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Do you think that the moment of misery was addressed?</question>
+    	<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+</quiz>

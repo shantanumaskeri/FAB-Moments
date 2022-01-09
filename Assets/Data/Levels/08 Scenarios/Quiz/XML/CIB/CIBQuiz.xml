@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>What signals pointed to the client having a moment of misery?</question>
+		<option1>Irritated tone of voice</option1>
+    	<option2>Complaint about the wrong information</option2>
+    	<option3>Long and wishy-washy options</option3>
+    	<option4>Not open to cooperate</option4>
+    	<option5></option5>
+		<option6></option6>
+		<correctAnswer>Complaint about the wrong information,Irritated tone of voice</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What behaviors did Salem display to manage the moment of misery? What steps do you recognize?</question>
+    	<option1>Acknowledge and apologize</option1>
+    	<option2>Discuss the problem</option2>
+    	<option3>Act with ownership</option3>
+    	<option4>Act with urgency</option4>
+		<option5>Offer multiple options to his client</option5>
+		<option6></option6>
+		<correctAnswer>Acknowledge and apologize,Act with ownership,Act with urgency,Discuss the problem</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How did Salem demonstrate “Keep the promise” behaviour?</question>
+    	<option1>Set clear expectations. Do not over commit and keep a buffer</option1>
+    	<option2>Follow up with internal stakeholders to provide a solution on the same day</option2>
+    	<option3>Deliver what was promised</option3>
+    	<option4>Negotiate a new deadline with the client</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Deliver what was promised,Follow up with internal stakeholders to provide a solution on the same day,Set clear expectations. Do not over commit and keep a buffer</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How does Salem demonstrate “Owning the moment”?</question>
+    	<option1>Took ownership of the situation</option1>
+    	<option2>Told his client what he will do for him</option2>
+    	<option3>Follow up with internal stakeholders</option3>
+    	<option4>Let the client know it wasn’t his fault but he will try to find a solution</option4>
+		<option5></option5>
+		<option6></option6>
+		<correctAnswer>Follow up with internal stakeholders,Told his client what he will do for him,Took ownership of the situation</correctAnswer>
+	</questionnaire>
+</quiz>

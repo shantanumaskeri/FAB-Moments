@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Managing the First Impression is...</question>
+		<option1>About tone of our voice when we speak to them</option1>
+    	<option2>About how we greet and talk to our customer</option2>
+    	<option3>Also about impression created by our surroundings and how we dress</option3>
+		<option4>How we handle the moment of truth every time we start a conversation with our customer</option4>
+	</questionnaire>
+	<questionnaire>
+    	<question>Own the Moment is...</question>
+    	<option1>About taking ownership of the experience</option1>
+    	<option2>About being focused in the conversation and not being distracted</option2>
+    	<option3>About listening to the customer</option3>
+		<option4></option4>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treat Everyone like a Customer means...</question>
+    	<option1>Treat the employees like you want them to treat their customers</option1>
+    	<option2>We are part of various touch points that impact the external customer experience</option2>
+		<option3>We have to start internally to impact externally</option3>
+		<option4></option4>
+	</questionnaire>
+	<questionnaire>
+    	<question>Keep the Promise states...</question>
+    	<option1>Trust is built when we do what we say we will do</option1>
+    	<option2>Trust is built when we manage customer expectations and exceed them where possible</option2>
+    	<option3></option3>
+		<option4></option4>
+	</questionnaire>
+	<questionnaire>
+    	<question>Manage moments of misery: Steps of managing the moment of misery are</question>
+    	<option1>Acknowledge and apologise. Discuss resolution and take ownership and act with urgency</option1>
+    	<option2></option2>
+    	<option3></option3>
+    	<option4></option4>
+	</questionnaire>
+</quiz>

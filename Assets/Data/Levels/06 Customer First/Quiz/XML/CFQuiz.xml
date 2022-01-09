@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>Managing the First Impression is only about how you smile at the customer</question>
+		<option1>True</option1>
+    	<option2>False</option2>
+    	<option3></option3>
+    	<option4></option4>
+    	<correctAnswer>False</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Own the Moment can only happen when we actively empathise with the customer</question>
+    	<option1>True</option1>
+    	<option2>False</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Treat Everyone like a Customer means every action impacts the end customer experience</question>
+    	<option1>True</option1>
+    	<option2>False</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<correctAnswer>True</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Keep the Promise states...You are only as good as your ______</question>
+    	<option1>Word</option1>
+    	<option2>Yourselves</option2>
+    	<option3>Peers</option3>
+    	<option4>Managers</option4>
+		<correctAnswer>Word</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Manage moments of misery: If we manage a moment of misery, we can create _____</question>
+    	<option1>A FAB Moment</option1>
+    	<option2>Increase in NPS Score</option2>
+    	<option3>Customer Loyalty</option3>
+    	<option4></option4>
+    	<correctAnswer>A FAB Moment</correctAnswer>
+	</questionnaire>
+</quiz>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<questionnaire>
+    	<question>What parts of Own the Moment is Ahmed demonstrating here?</question>
+		<option1>Empathising with the customer</option1>
+    	<option2>Listening actively to the customer and understanding the emotions in the message</option2>
+		<option3>Picking up the customer's call although it is a holiday</option3>
+		<option4>Taking accountability to try and find a solution for the customer</option4>
+	</questionnaire>
+    <questionnaire>
+    	<question>Did Ahmed manage the customer’s expectations?</question>
+		<option1>Yes</option1>
+    	<option2></option2>
+    	<option3></option3>
+    	<option4></option4>
+	</questionnaire>
+	<questionnaire>
+    	<question>When we adhere to the process and make sure things happen within the required legal framework, we are demonstrating 'Keep the Promise' and 'Own the Moment'</question>
+		<option1>True</option1>
+    	<option2></option2>
+    	<option3></option3>
+    	<option4></option4>
+	</questionnaire>
+</quiz>

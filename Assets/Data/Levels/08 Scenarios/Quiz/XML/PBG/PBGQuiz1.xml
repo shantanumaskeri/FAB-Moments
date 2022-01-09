@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+	<questionnaire>
+    	<question>What parts of Own the Moment is Ahmed demonstrating here?</question>
+		<option1>Empathising with the customer</option1>
+    	<option2>Delaying / pushing away the customer's calls</option2>
+    	<option3>Listening actively to the customer and understanding the emotions in the message</option3>
+    	<option4>It is Friday - a holiday. The customer will have to wait</option4>
+		<option5>Picking up the customer's call although it is a holiday</option5>
+		<option6>Taking accountability to try and find a solution for the customer</option6>
+    	<correctAnswer>Empathising with the customer,Listening actively to the customer and understanding the emotions in the message,Picking up the customer's call although it is a holiday,Taking accountability to try and find a solution for the customer</correctAnswer>
+	</questionnaire>
+    <questionnaire>
+    	<question>Did Ahmed manage the customer’s expectations?</question>
+		<option1>Yes</option1>
+    	<option2>No</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+    	<option6></option6>
+    	<correctAnswer>Yes</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>When we adhere to the process and make sure things happen within the required legal framework, we are demonstrating 'Keep the Promise' and 'Own the Moment'</question>
+		<option1>True</option1>
+    	<option2>False</option2>
+    	<option3></option3>
+    	<option4></option4>
+		<option5></option5>
+    	<option6></option6>
+    	<correctAnswer>True</correctAnswer>
+	</questionnaire>
+</quiz>
